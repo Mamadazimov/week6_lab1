@@ -9,7 +9,7 @@ void displayEven(int number) {
 
         }
         else
-            number=number-number/10;
+            number=number/10;
     }
 }
 int main() {
